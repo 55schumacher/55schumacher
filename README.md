@@ -12,7 +12,7 @@
 
 <h2 align="center">Operating System</h2>
 
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/windows8/windows8-original.svg" height="40" alt="javascript"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/windows8/windows8-original.svg" height="40" alt="javascript" align="center" />
   <img width="12" />
 
 ###
